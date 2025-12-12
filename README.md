@@ -11,8 +11,8 @@ This simple Flutter application fetches weather information for a specified city
 
 ## Screenshots
 
-![Splash Screen](assets/splash_screen.jpg) 
-![Weather Screen](assets/weather_screen.jpg)
+<img src="https://github.com/vams-skn/flutter-weather-app/blob/main/assets/splash_screen.jpg" alt="Splash Screen" height="300">
+<img src="https://github.com/vams-skn/flutter-weather-app/blob/main/assets/weather_screen.jpg" alt="Weather Screen" height="300">
 
 ## Run Locally
 
